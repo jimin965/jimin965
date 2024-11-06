@@ -3,7 +3,7 @@
 
 
 lab 2-2
-
+오늘살이
 
 <!--
 **jimin965/jimin965** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
